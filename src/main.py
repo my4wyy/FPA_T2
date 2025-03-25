@@ -15,6 +15,6 @@ def maxmin_select(arr, left, right):
     return min(min1, min2), max(max1, max2)  
 
 if __name__ == "__main__":
-    arr = [3, 1, 7, 9, 2, 8, 4, 6, 5]
+    arr = [1, 7, 9, 2, 8, 4, 6, 5]
     minimum, maximum = maxmin_select(arr, 0, len(arr) - 1)
     print(f"menor elemento: {minimum}, maior elemento: {maximum}")
