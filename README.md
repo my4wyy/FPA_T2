@@ -110,7 +110,7 @@ Como a complexidade `o(n)` é obtida diretamente do primeiro caso do teorema mes
 
 ## Diagrama de divisão e combinação
 
-![Diagrama da divisão e combinação](assets/diagrama.png)
+![Diagrama da divisão e combinação](assets/Diagrama.png)
 
 ## Conclusão
 
